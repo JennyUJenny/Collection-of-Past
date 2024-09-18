@@ -1,0 +1,10 @@
+#Simple introduction to the battle#
+
+Welcome to your favourite Pokemon battle -- I Wanna Be The Very Best!
+
+Like its name, this battle wants you and the enemy to strive for the title of "Very Best" by attacking each other. 
+
+Today, you are going to choose one Pokemon from the fantastic group of 3 amazing soldiers to fight for you against the evil monster. For the sake of equity, your enemy will also be given the same chance to choose one representative to face your soldier. 
+After, you and the evil monster will be both given a chance to choose a way to attack each other from Tackle, SPATK, and Do Nothing. The attacking process continues until one of you runs out of health. The side that has remaining health would be the winner and gain the title of "Very Best". 
+
+Now, it's time for you to start! 
